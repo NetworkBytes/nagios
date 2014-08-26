@@ -1,0 +1,17 @@
+{
+  "name": "networkbytes-nagios",
+  "version": "0.1.0",
+  "author": "networkbytes",
+  "summary": "Super simple nagios module based off the tutorials from the puppet site",
+  "license": "Apache 2.0",
+  "source": "https://github.com/NetworkBytes/nagios",
+  "project_page": "https://github.com/NetworkBytes/nagios",
+  "issues_url": "https://github.com/NetworkBytes/nagios/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
